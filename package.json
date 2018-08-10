@@ -1,0 +1,19 @@
+{
+  "name": "@monoku/react-native-waltz",
+  "version": "1.0.0",
+  "description": "React Native Wrapper for Waltz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monoku/react-native-waltz.git"
+  },
+  "author": "Monoku",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monoku/react-native-waltz/issues"
+  },
+  "homepage": "https://github.com/monoku/react-native-waltz#readme"
+}
